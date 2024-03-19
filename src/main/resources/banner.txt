@@ -1,0 +1,9 @@
+
+${AnsiColor.GREEN}████████╗███████╗███╗   ███╗██████╗ ██╗      █████╗ ████████╗███████╗
+${AnsiColor.GREEN}╚══██╔══╝██╔════╝████╗ ████║██╔══██╗██║     ██╔══██╗╚══██╔══╝██╔════╝
+${AnsiColor.GREEN}   ██║   █████╗  ██╔████╔██║██████╔╝██║     ███████║   ██║   █████╗
+${AnsiColor.GREEN}   ██║   ██╔══╝  ██║╚██╔╝██║██╔═══╝ ██║     ██╔══██║   ██║   ██╔══╝
+${AnsiColor.GREEN}   ██║   ███████╗██║ ╚═╝ ██║██║     ███████╗██║  ██║   ██║   ███████╗
+${AnsiColor.GREEN}   ╚═╝   ╚══════╝╚═╝     ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝
+
+${AnsiColor.BRIGHT_BLUE}:: Usco Demo Travel 🤓 🤓  :: Running Spring Boot ${spring-boot.formatted-version} :: ${AnsiColor.DEFAULT}

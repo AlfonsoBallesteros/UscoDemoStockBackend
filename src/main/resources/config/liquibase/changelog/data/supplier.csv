@@ -1,0 +1,4 @@
+id;name;address;phone_number;email;created_date;last_modified_date
+1;Proveedor 1;Calle 123;+57 12345678;proveedor1@email.com;2024-03-19 12:22:00;NULL
+2;Proveedor 2;Avenida Principal;+57 87654321;proveedor2@email.com;2024-03-19 12:22:00;NULL
+3;Proveedor 3;Carrera 456;+57 98765432;proveedor3@email.com;2024-03-19 12:22:00;NULL

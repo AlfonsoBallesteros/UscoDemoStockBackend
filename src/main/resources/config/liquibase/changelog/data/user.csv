@@ -1,0 +1,5 @@
+id;login;password;name;birthdate;gender;phone_number;activated
+1;admin;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;Administrator;2021-02-08;MALE;315823659;true
+2;user;$2a$10$VEjxo0jq2YG9Rbk2HmX9S.k1uZBGYUHdUcid3g/vfiEl7lwWgOH/K;User;2021-02-08;MALE;3215632569;true
+3;roadstrategistauxiliary;$2a$10$VEjxo0jq2YG9Rbk2HmX9S.k1uZBGYUHdUcid3g/vfiEl7lwWgOH/K;Road;2021-02-08;FEMALE;3695821452;true
+4;elmaster;$2a$10$VEjxo0jq2YG9Rbk2HmX9S.k1uZBGYUHdUcid3g/vfiEl7lwWgOH/K;el master;2021-02-08;MALE;3215478563;true
